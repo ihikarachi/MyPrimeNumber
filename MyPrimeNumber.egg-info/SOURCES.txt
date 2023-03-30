@@ -1,0 +1,8 @@
+README.md
+setup.py
+MyPrimeNumber/__init__.py
+MyPrimeNumber/code.py
+MyPrimeNumber.egg-info/PKG-INFO
+MyPrimeNumber.egg-info/SOURCES.txt
+MyPrimeNumber.egg-info/dependency_links.txt
+MyPrimeNumber.egg-info/top_level.txt
