@@ -14,4 +14,7 @@ def primeNumberList (st,ed):
             lst.append(i)
     return lst
 
+def start ():
+    return "It is imam Hussain a.s institute library"
+
 

@@ -1,13 +1,12 @@
 Metadata-Version: 2.1
 Name: MyPrimeNumber
-Version: 1.0.0
+Version: 1.0.2
 Summary: For Prime Number
 Home-page: UNKNOWN
 Author: Shakeel Abbas (imam Hussain a.s institute)
 Author-email: <ihi.karachi@gmail.com>
 License: UNKNOWN
-Description: This is a library for finding prime numbers, it has two functions: 
-         from MyPrimeNumber import isPrimeNumber | from MyPrimeNumber import primeNumberList
+Description: https://github.com/ihikarachi/MyPrimeNumber
 Keywords: python,primenumber,math
 Platform: UNKNOWN
 Classifier: Development Status :: 1 - Planning

@@ -5,12 +5,12 @@ import os
 # Setting up
 setup(
     name="MyPrimeNumber",
-    version="1.0.0",
+    version="1.0.2",
     author="Shakeel Abbas (imam Hussain a.s institute)",
     author_email="<ihi.karachi@gmail.com>",
     description="For Prime Number",
     long_description_content_type="text/markdown",
-    long_description="This is a library for finding prime numbers, it has two functions: \n from MyPrimeNumber import isPrimeNumber | from MyPrimeNumber import primeNumberList",
+    long_description="https://github.com/ihikarachi/MyPrimeNumber",
     packages=find_packages(),
     install_requires=[],
     keywords=['python', 'primenumber', 'math'],
