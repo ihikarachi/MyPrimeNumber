@@ -12,7 +12,7 @@ from MyPrimeNumber import start
 x = isPrimeNumber(17)
 print (x)
 
-lst = PrimeNumberList(2,200)
+lst = primeNumberList(2,200)
 print (lst)
 
 txt = start()
